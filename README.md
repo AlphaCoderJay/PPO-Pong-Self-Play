@@ -11,7 +11,10 @@ I also added a human-vs-agent mode so I could actually play against one of the t
 
 **AI vs AI**
 
-*Add recording/GIF here*
+[agentvsagent.zip](https://github.com/user-attachments/files/31564712/agentvsagent.zip)
+
+
+
 
 **Human vs AI**
 
