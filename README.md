@@ -200,21 +200,18 @@ GAE lambda: 0.95
 
 The current run is being trained for **500 iterations**.
 
-### Results
+## Results
 
-I'll add the final results from the 500-iteration run here.
+After 500 training iterations, the agents learned to rally the
+ball consistently during self-play.
 
-```text
-Training iterations: 500
+The longest recorded rally lasted approximately 7 minutes.
 
-Left agent:
-Average evaluation reward: TBD
+The left agent was able to defeat the right agent in evaluation,
+with a final score of 3-2.
 
-Right agent:
-Average evaluation reward: TBD
-```
+See the AI-vs-AI recording below.
 
-I'll also add an AI-vs-AI recording here once the final model has finished training.
 
 ---
 
