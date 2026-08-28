@@ -20,7 +20,11 @@ The video length was too long so this video is in 1.6x speed
 
 **Human vs AI**
 
-*Add recording/GIF here*
+
+https://github.com/user-attachments/assets/dccafeca-4a52-428e-b14e-01384c8d23df
+
+The agent is to the left and I'm playing at the right
+
 
 ---
 
