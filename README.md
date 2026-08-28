@@ -11,8 +11,10 @@ I also added a human-vs-agent mode so I could actually play against one of the t
 
 **AI vs AI**
 
-[agentvsagent.zip](https://github.com/user-attachments/files/31564712/agentvsagent.zip)
 
+https://github.com/user-attachments/assets/e5879890-14b8-4b64-a0a7-cce9f39137ff
+
+The video length was too long so this video is in 1.6x speed
 
 
 
